@@ -2,6 +2,7 @@
 Event Sourcing Sample with SQL and EventStoreDB 
 
 What is Event Sourcing?
+
 Martin Fowler says:
 
 "Capture all changes to an application state as a sequence of events."
