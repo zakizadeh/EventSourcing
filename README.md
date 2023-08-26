@@ -1,2 +1,2 @@
 # EventSourcing
-EventS ourcing Sample with sql and EventStoreDB 
+Event Sourcing Sample with SQL and EventStoreDB 
