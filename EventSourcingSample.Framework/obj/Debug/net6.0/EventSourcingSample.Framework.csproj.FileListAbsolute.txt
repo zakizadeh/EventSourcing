@@ -1,0 +1,12 @@
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Framework\bin\Debug\net6.0\EventSourcingSample.Framework.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Framework\bin\Debug\net6.0\EventSourcingSample.Framework.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Framework\bin\Debug\net6.0\EventSourcingSample.Framework.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Framework\obj\Debug\net6.0\EventSourcingSample.Framework.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Framework\obj\Debug\net6.0\EventSourcingSample.Framework.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Framework\obj\Debug\net6.0\EventSourcingSample.Framework.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Framework\obj\Debug\net6.0\EventSourcingSample.Framework.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Framework\obj\Debug\net6.0\EventSourcingSample.Framework.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Framework\obj\Debug\net6.0\EventSourcingSample.Framework.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Framework\obj\Debug\net6.0\refint\EventSourcingSample.Framework.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Framework\obj\Debug\net6.0\EventSourcingSample.Framework.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Framework\obj\Debug\net6.0\ref\EventSourcingSample.Framework.dll

@@ -1,0 +1,17 @@
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Dal.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Dal.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Dal.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Framework.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Domain.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Framework.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.csproj.CopyComplete
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\refint\EventSourcingSample.Dal.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\ref\EventSourcingSample.Dal.dll

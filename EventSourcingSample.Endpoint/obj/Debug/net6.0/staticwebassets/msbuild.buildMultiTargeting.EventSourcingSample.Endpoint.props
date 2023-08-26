@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EventSourcingSample.Endpoint.props" />
+</Project>

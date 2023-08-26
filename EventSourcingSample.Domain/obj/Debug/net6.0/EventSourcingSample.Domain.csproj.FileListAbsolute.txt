@@ -1,0 +1,15 @@
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\bin\Debug\net6.0\EventSourcingSample.Domain.deps.json
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\bin\Debug\net6.0\EventSourcingSample.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\bin\Debug\net6.0\EventSourcingSample.Domain.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\bin\Debug\net6.0\EventSourcingSample.Framework.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\bin\Debug\net6.0\EventSourcingSample.Framework.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\obj\Debug\net6.0\EventSourcingSample.Domain.csproj.AssemblyReference.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\obj\Debug\net6.0\EventSourcingSample.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\obj\Debug\net6.0\EventSourcingSample.Domain.AssemblyInfoInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\obj\Debug\net6.0\EventSourcingSample.Domain.AssemblyInfo.cs
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\obj\Debug\net6.0\EventSourcingSample.Domain.csproj.CoreCompileInputs.cache
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\obj\Debug\net6.0\EventSourcingSample.Domain.csproj.CopyComplete
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\obj\Debug\net6.0\EventSourcingSample.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\obj\Debug\net6.0\refint\EventSourcingSample.Domain.dll
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\obj\Debug\net6.0\EventSourcingSample.Domain.pdb
+E:\zakizadeh pc\edu\c# cources 2023\microservice2\14\4 - Sample\14. EventSourcingSample\EventSourcingSample.Domain\obj\Debug\net6.0\ref\EventSourcingSample.Domain.dll

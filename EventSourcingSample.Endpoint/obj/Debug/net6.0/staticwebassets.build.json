@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QTEl/M5Ob6XkY+xZZgqElvmSqHvaV0OZrN0I8+QTMns=",
+  "Source": "EventSourcingSample.Endpoint",
+  "BasePath": "_content/EventSourcingSample.Endpoint",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
